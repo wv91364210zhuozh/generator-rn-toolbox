@@ -37,7 +37,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "color-js": "^1.0.4",
-    "colors": "^1.1.2",
+    "colors": "^1.4.0",
     "compare-version": "^0.1.2",
     "download-file-sync": "^1.0.4",
     "fs-extra": "^4.0.2",
