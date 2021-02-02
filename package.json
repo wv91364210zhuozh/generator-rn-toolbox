@@ -35,7 +35,7 @@
     "url": "https://github.com/bamlab/generator-rn-toolbox"
   },
   "dependencies": {
-    "bluebird": "^3.5.0",
+    "bluebird": "^3.7.2",
     "color-js": "^1.0.4",
     "colors": "^1.1.2",
     "compare-version": "^0.1.2",
