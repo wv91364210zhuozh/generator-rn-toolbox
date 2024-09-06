@@ -43,8 +43,8 @@
     "fs-extra": "^4.0.2",
     "gm": "^1.23.0",
     "randomstring": "^1.1.5",
-    "universal-analytics": "^0.4.20",
-    "yeoman-generator": "^2.0.1"
+    "universal-analytics": "^0.4.21",
+    "yeoman-generator": "^7.1.1"
   },
   "devDependencies": {
     "commitizen": "^2.9.6",
