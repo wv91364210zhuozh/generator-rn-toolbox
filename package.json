@@ -41,7 +41,7 @@
     "compare-version": "^0.1.2",
     "download-file-sync": "^1.0.4",
     "fs-extra": "^4.0.2",
-    "gm": "^1.23.0",
+    "gm": "^1.25.1",
     "randomstring": "^1.1.5",
     "universal-analytics": "^0.4.20",
     "yeoman-generator": "^2.0.1"
